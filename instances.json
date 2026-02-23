@@ -1,0 +1,38 @@
+[
+    {
+        "clearnet": "https://pain.thirtysix.pw",
+        "tor": null,
+        "i2p": null,
+        "country": "NL",
+        "cdn": false,
+        "owner_name": "thirtysix",
+        "owner_website": "https://thirtysix.pw"
+    },
+    {
+        "clearnet": "https://pt.bloat.cat",
+        "tor": null,
+        "i2p": null,
+        "country": "DE",
+        "cdn": false,
+        "owner_name": "bloatcat",
+        "owner_website": "https://bloat.cat"
+    },
+    {
+        "clearnet": "https://pin.dc09.ru",
+        "tor": null,
+        "i2p": null,
+        "country": "RU",
+        "cdn": false,
+        "owner_name": "DarkCat09",
+        "owner_website": "https://dc09.ru"
+    },
+    {
+        "clearnet": "https://painterest.franklyflawless.org",
+        "tor": null,
+        "i2p": null,
+        "country": "DE",
+        "cdn": false,
+        "owner_name": "FranklyFlawless",
+        "owner_website": "https://franklyflawless.org"
+    }
+]
